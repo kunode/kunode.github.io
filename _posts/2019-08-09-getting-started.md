@@ -40,7 +40,7 @@ $ bash tools/init
 
 The above command will:
 
-1. Check out the code to the [latest tag][latest-tag] (to ensure the stability of your site: as the code for the default branch is under development).
+1. Check out the code to the (to ensure the stability of your site: as the code for the default branch is under development).
 2. Remove non-essential sample files and take care of GitHub-related files.
 3. Build JavaScript files and export to `assets/js/dist/`{: .filepath }, then make them tracked by Git.
 4. Automatically create a new commit to save the changes above.
