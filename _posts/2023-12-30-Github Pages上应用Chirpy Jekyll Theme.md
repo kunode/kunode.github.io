@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Github Pages上应用Chirpy Jekyll Theme"
-date:   2023-12-03 22:59:27 +0800
+date:   2023-12-30 22:59:27 +0800
 categories: jekyll
 ---
 
 ### 参考链接
-* Chirpy Jekyll Theme https://github.com/cotes2020/jekyll-theme-chirpy
-* Chirpy Jekyll Theme的4篇使用介绍，即Demo https://chirpy.cotes.page/posts/getting-started/
-* Chirpy Jekyll Theme的Chirpy Starter https://github.com/cotes2020/chirpy-starter
+* Chirpy Jekyll Theme (https://github.com/cotes2020/jekyll-theme-chirpy)
+* Chirpy Jekyll Theme的4篇使用介绍，即Demo (https://chirpy.cotes.page/posts/getting-started/)
+* Chirpy Jekyll Theme的Chirpy Starter (https://github.com/cotes2020/chirpy-starter)
 
 ### Jekyll基础环境安装
 Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. [Git](https://git-scm.com/) also needs to be installed.
@@ -56,9 +56,9 @@ There are a few things to get ready for.
 - If you're on the GitHub Free plan, keep your site repository public.
 - If you have committed `Gemfile.lock`{: .filepath} to the repository, and your local machine is not running Linux, go the the root of your site and update the platform list of the lock-file:
 
-  ```console
-  $ bundle lock --add-platform x86_64-linux
-  ```
+```console
+$ bundle lock --add-platform x86_64-linux
+```
 
 Next, configure the _Pages_ service.
 
