@@ -16,7 +16,7 @@ timezone: Asia/Taipei
 
 title: Konode # the main title
 
-tagline: 少放盐 # it will display as the sub-title
+tagline: Everything old is new again # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
